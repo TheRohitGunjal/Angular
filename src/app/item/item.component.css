@@ -1,0 +1,23 @@
+.items{
+    border: 5px solid rgb(19, 2, 10);
+    border-radius:15px ;
+    height: 500px;
+    width: 250px;
+    
+}
+img{
+    width:250px;
+	height:250px;
+	border-radius:15px;
+	transition:2s;
+}
+img:hover{
+    transform:scale(1.1);
+}
+.items{
+
+}
+.items:hover{
+    color:aqua;
+	text-decoration:underline;
+}

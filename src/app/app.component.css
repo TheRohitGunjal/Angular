@@ -1,0 +1,10 @@
+
+
+#items{
+    display:grid;/* 12RX1c*/
+	/* grid-template-colomns:200px 200px 200px; OR */
+	grid-template-columns:auto auto auto auto auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
